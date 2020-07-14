@@ -1,2 +1,2 @@
 # ts-playground
-For typescript TDD katas
+For typescript / javascript TDD katas
